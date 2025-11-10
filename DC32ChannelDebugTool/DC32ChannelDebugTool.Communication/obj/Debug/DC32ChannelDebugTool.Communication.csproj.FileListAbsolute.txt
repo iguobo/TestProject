@@ -1,0 +1,6 @@
+E:\TestTool\DC32ChannelDebugTool\DC32ChannelDebugTool.Communication\bin\Debug\DC32ChannelDebugTool.Communication.dll
+E:\TestTool\DC32ChannelDebugTool\DC32ChannelDebugTool.Communication\bin\Debug\DC32ChannelDebugTool.Communication.pdb
+E:\TestTool\DC32ChannelDebugTool\DC32ChannelDebugTool.Communication\obj\Debug\DC32ChannelDebugTool.Communication.csproj.AssemblyReference.cache
+E:\TestTool\DC32ChannelDebugTool\DC32ChannelDebugTool.Communication\obj\Debug\DC32ChannelDebugTool.Communication.csproj.CoreCompileInputs.cache
+E:\TestTool\DC32ChannelDebugTool\DC32ChannelDebugTool.Communication\obj\Debug\DC32ChannelDebugTool.Communication.dll
+E:\TestTool\DC32ChannelDebugTool\DC32ChannelDebugTool.Communication\obj\Debug\DC32ChannelDebugTool.Communication.pdb
